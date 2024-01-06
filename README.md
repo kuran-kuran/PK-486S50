@@ -7,6 +7,9 @@ MS-DOSプロンプト上から
 と入力して実行してください。  
 するとCPUがちょっと速くなります。  
 
+# ダウンロード
+https://github.com/kuran-kuran/PK-486S50/releases
+
 # ビルド方法
 ビルドするにはMS-DOSが動く環境とマクロアセンブラ6.00が必要です。  
 SOURCEフォルダのMK.BATを実行してください。  
